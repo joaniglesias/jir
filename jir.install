@@ -60,5 +60,6 @@ function jir_install() {
   $query = db_insert('block')->fields(array('module', 'delta', 'theme', 'status', 'weight', 'region', 'pages', 'cache'));
   $query->values($block);
   $query->execute();
+  */
 }
-*/
+
