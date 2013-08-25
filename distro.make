@@ -4,7 +4,7 @@ api = 2
 projects[drupal][version] = 7.20
 
 ; Install profile
-projects[vimn_twitter_voting][type] = "profile"
-projects[vimn_twitter_voting][download][type] = "git"
-projects[vimn_twitter_voting][download][url] = "git@github.com:joaniglesias/jir.git"
-projects[vimn_twitter_voting][download][branch] = "master"
+projects[jir][type] = "profile"
+projects[jir][download][type] = "git"
+projects[jir][download][url] = "git@github.com:joaniglesias/jir.git"
+projects[jir][download][branch] = "master"
