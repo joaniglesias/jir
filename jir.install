@@ -1,6 +1,6 @@
 <?php
 
-function vimn_twitter_voting_install() {
+function jir_install() {
 
   // Only administrators can create accounts
   variable_set('user_register', USER_REGISTER_ADMINISTRATORS_ONLY);
